@@ -57,7 +57,7 @@ class KeywordScorer :
 
         caps = re.findall(r"\b[A-Z]{4,}\b" , text)
         if caps:
-            minus = min(len(caps)* 5 , 15)
+            minus = min(len(caps)* 5 , 10)
             score -= minus
             flags.append(f"ALL CAPS words detected: {', '.join(set(caps))}")
 
