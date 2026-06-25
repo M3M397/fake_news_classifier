@@ -101,7 +101,7 @@ python -m textblob.download_corpora
 
 4. Run the application:
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 Open your browser at **http://localhost:8501**
