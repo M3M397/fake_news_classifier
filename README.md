@@ -117,6 +117,4 @@ This project demonstrates my ability to:
 - Build functional, modern GUI applications
 - Handle errors gracefully using custom exception hierarchies
 
-It reflects my growing interest in building structured, data-driven systems at the intersection of software engineering and data science.
-
 ---
